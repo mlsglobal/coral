@@ -6763,7 +6763,7 @@ body {
   background: #fff;
   font-size: 13px;
   color: #525252;
-  padding-top: 90px;
+  padding-top: 60px;
 }
 h1,
 h2,
@@ -7134,7 +7134,7 @@ ul.icons li i:before {
   background: #2c2c2c;
   border: none;
   margin: none;
-  top: 30px;
+  top: 0px;
   min-height: 60px;
 }
 .navbar-coral .navbar-brand {
