@@ -7941,7 +7941,8 @@ input[type="color"],
     position: absolute;
     padding: 0;
     margin: 0;
-    left: 100px;
+    right: 20px;
+    left: initial;
     top: 13px;
   }
   .navbar-coral .navbar-nav.navbar-right > li {

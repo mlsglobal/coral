@@ -12593,8 +12593,9 @@ div.pp_overlay {
     position: absolute;
     padding: 0;
     margin: 0;
-    left: 100px;
-    top: 13px;
+    right: 20px;
+    left: initial;
+    top: 0px;
   }
   .navbar-coral .navbar-nav.navbar-right > li {
     float: left;
@@ -12607,7 +12608,7 @@ div.pp_overlay {
   }
   .navbar-coral .navbar-collapse .navbar-nav {
     margin: 0;
-    padding: 14px 0;
+    padding: 0px 0;
   }
 }
 
